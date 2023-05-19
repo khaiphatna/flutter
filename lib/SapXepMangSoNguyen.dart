@@ -1,3 +1,6 @@
+//đề bài: cho đoạn code sinh ngẫu nhiên một mảnh 10 số nguyên.
+// hãy sắp xếp mảng trên theo thứ tự tăng dần mà không dùng hàm TenMang.sort() có sẵn.
+
 import 'dart:math';
 
 void main() {
